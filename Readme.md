@@ -1,3 +1,3 @@
 # New project
 
-This project was created from local system.by pallavi negi
+This project was created from local system.by pallavi negi.
